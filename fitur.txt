@@ -1,0 +1,13 @@
+Berikut adalah fitur yang ada dalam Aplikasi ini:
+1. index
+berisi Halaman utama pada aplikasi ini, dimana aplikasi ini dijelaskan dan juga ada gambar lapagan dan bola yang akan digunakan
+2. about
+halaman ini berisi kelompok mahasiswa unisinu Jepara yang membuat aplikasi ini sebagai tugas ahir mata kuliah rekayasa perangkat lunak lanjut
+3. daftar jam Lapangan
+disini kita bisa melihat daftar jam lapangan Brigadir Futsal. pada sistem ini kita bisa melihat jam berapa dan hari apa saja yang sudah dipesan oleh orang lain,
+sehingga kita bisa menyesuaikan pada hari apa dan jam berapa kita akan memesan lapangan pada Brigadir Futsal Stadium
+4. Pesan Sekarang
+setelah melihat daftar jam lapangan. di fitur ini kita bisa langsung mengisikan data sekaligus memesan lapangan pada Sistem ini.
+5. cara pemesanan
+disini berisikan peraturan pemesanan yang bisa dilihat pada sistem ini.
+6. logout
